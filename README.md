@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obnan
-- 👀 I’m interested in Video Games
+- 👀 I’m interested in linux
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: no.
